@@ -2,8 +2,7 @@ streamlit
 requests
 langchain_core
 langchain_groq 
-cryptography.fernet 
-sqlite3
+cryptography
 dotenv 
 pytz
 langchain
