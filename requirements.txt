@@ -1,0 +1,14 @@
+streamlit
+requests
+groq 
+langchain_core
+langchain_groq 
+cryptography.fernet 
+sqlite3
+json
+os
+dotenv 
+datetime 
+pytz
+typing 
+langchain
